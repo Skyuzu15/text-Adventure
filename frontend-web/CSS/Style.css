@@ -1,0 +1,31 @@
+body {
+    font-family: 'Georgia', serif; /* ou 'Arial', sans-serif */
+    background-color: #f0eae0; /* Cor de fundo clara */
+    color: #333; /* Texto escuro */
+    line-height: 1.6; /* Melhor legibilidade */
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #2c3e50; /* Cor dos títulos */
+}
+
+.text-box {
+    background-color: #fff; /* Caixa de texto branca */
+    border-radius: 8px; /* Bordas arredondadas */
+    padding: 15px; /* Espaçamento interno */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+button {
+    background-color: #3498db; /* Cor do botão */
+    color: white; /* Texto do botão */
+    padding: 10px 15px; /* Espaçamento interno do botão */
+    border: none; /* Sem borda */
+    border-radius: 5px; /* Bordas arredondadas */
+    cursor: pointer; /* Cursor de mão ao passar o mouse */
+}
+
+button:hover {
+    background-color: #2980b9; /* Cor do botão ao passar o mouse */
+}
